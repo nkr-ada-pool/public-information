@@ -2,7 +2,7 @@
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/nkr-ada-pool-only64-64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/nkr-ada-pool-only64-64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/nkr-ada-pool-only450-450.jpg",
         "location": "London, England",
         "social": {
             "twitter_handle": "nkr_1234",
