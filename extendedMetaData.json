@@ -2,29 +2,20 @@
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/nkr-ada-pool-only64-64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/nkr-ada-pool-only450-450.jpg",
-        "location": "London, England",
+        "url_png_logo": "https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/nkr-ada-pool-only190-190.png",
+        "location": "",
         "social": {
             "twitter_handle": "nkr_1234",
-            "telegram_handle": "adapools_ops",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
         },
-        "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
-        },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "日本人オペレーターが運営するNKR ADA POOLです。本職はエンジニアです。培ったスキルを活かしてプール運用に活かしていきたいと思います。 NKR ADA POOL is operated by a Japanese operator. My day job is an engineer. I would like to utilize the skills I have developed to operate the pool.",
+            "server": "6core CPU / 8GB RAM / VPS"
         }
     },
     "my-pool-ids": {
